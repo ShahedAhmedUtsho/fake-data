@@ -6,7 +6,7 @@
             "id":"a",
             "posted_date": "2024-03-13",
             "title": "The Mystery of the Sapphire Amulet",
-            "reading_time": "45 mins",
+            "reading_time": "10",
             "hashtags": ["mystery", "adventure", "fiction"]
         },
         {
@@ -16,7 +16,7 @@
           "id":"v",
             "posted_date": "2024-03-14",
             "title": "Secrets of the Lost Temple",
-            "reading_time": "30 mins",
+            "reading_time": "7",
             "hashtags": ["exploration", "history", "adventure"]
         },
         {
@@ -26,7 +26,7 @@
              "id":"c",
             "posted_date": "2024-03-15",
             "title": "The Enigma of Time",
-            "reading_time": "60 mins",
+            "reading_time": "6",
             "hashtags": ["sciencefiction", "time", "mystery"]
         },
         {
@@ -36,7 +36,7 @@
              "id":"d",
             "posted_date": "2024-03-16",
             "title": "Whispers in the Dark",
-            "reading_time": "40 mins",
+            "reading_time": "4",
             "hashtags": ["suspense", "thriller", "horror"]
         },
         {
@@ -46,7 +46,7 @@
             "id":"e",
             "posted_date": "2024-03-17",
             "title": "Echoes of the Past",
-            "reading_time": "50 mins",
+            "reading_time": "5",
             "hashtags": ["history", "mystery", "fiction"]
         }
     ]
